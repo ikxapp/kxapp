@@ -23,7 +23,7 @@ Fully compatible with Xcode projects and the xcodebuild command. No Mac and no X
 > [!IMPORTANT]
 > 🚀 **kxapp is launching soon!**
 > Hit ⭐ **Star** or 👀 **Watch** in the top-right corner and **Follow** the author to get release news and updates first.
-> Found a problem or have a feature request? Open an [Issue](../../issues) or join QQ group **260150910**.
+> Found a problem or have a feature request? Open an [Issue](../../issues) .
 
 <br/>
 
