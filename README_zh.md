@@ -56,21 +56,22 @@
 
 | 技术栈 | 编码 | 智能提示 | 真机调试 | 发布 ipa | 上架 App Store |
 |---|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/swift/F05138" width="18" /> **Swift / SwiftUI / UIKit** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/apple/438EFF" width="18" /> **Objective-C** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/swift/F05138" width="18" /> **[Swift / SwiftUI / UIKit](doc/zh/swift.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/apple/438EFF" width="18" /> **[Objective-C](doc/zh/objective-c.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
 | <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="18" /> **C / C++** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/swift/F05138" width="18" /> **Swift Package** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/cocoapods/EE3322" width="18" /> **CocoaPods** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/flutter/02569B" width="18" /> **Flutter** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" /> **React Native** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/expo/000020" width="18" /> **Expo** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🟢 **uni-app（HBuilderX）** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="18" /> **Kotlin Multiplatform / Compose** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/unity/000000" width="18" /> **Unity** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/cocos/55C2E1" width="18" /> **cocos2d-x** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/apachecordova/35434F" width="18" /> **Cordova** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/swift/F05138" width="18" /> **[Swift Package](doc/zh/swift.md#package)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/cocoapods/EE3322" width="18" /> **[CocoaPods](doc/zh/cocoapods.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/flutter/02569B" width="18" /> **[Flutter](doc/zh/flutter.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" /> **[React Native](doc/zh/react-native.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/expo/000020" width="18" /> **[Expo](doc/zh/expo.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 🟢 **[uni-app（HBuilderX）](doc/zh/uni-app.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="18" /> **[Kotlin Multiplatform / Compose](doc/zh/kotlin-multiplatform.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/unity/000000" width="18" /> **[Unity](doc/zh/unity.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="18" /> **[Godot](doc/zh/godot.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/cocos/55C2E1" width="18" /> **[cocos2d-x](doc/zh/cocos2d-x.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/apachecordova/35434F" width="18" /> **[Cordova](doc/zh/cordova.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-各技术栈的开发步骤见 [doc/zh](doc/zh/README.md)。
+点击技术栈名称查看对应的开发步骤。
 
 
 

@@ -56,21 +56,22 @@ Fully compatible with Xcode projects and the xcodebuild command. No Mac and no X
 
 | Tech Stack | Coding | IntelliSense | Device Debugging | Build .ipa | App Store Release |
 |---|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/swift/F05138" width="18" /> **Swift / SwiftUI / UIKit** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/apple/438EFF" width="18" /> **Objective-C** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/swift/F05138" width="18" /> **[Swift / SwiftUI / UIKit](doc/en/swift.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/apple/438EFF" width="18" /> **[Objective-C](doc/en/objective-c.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
 | <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="18" /> **C / C++** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/swift/F05138" width="18" /> **Swift Package** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/cocoapods/EE3322" width="18" /> **CocoaPods** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/flutter/02569B" width="18" /> **Flutter** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" /> **React Native** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/expo/000020" width="18" /> **Expo** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🟢 **uni-app (HBuilderX)** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="18" /> **Kotlin Multiplatform / Compose** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/unity/000000" width="18" /> **Unity** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/cocos/55C2E1" width="18" /> **cocos2d-x** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| <img src="https://cdn.simpleicons.org/apachecordova/35434F" width="18" /> **Cordova** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/swift/F05138" width="18" /> **[Swift Package](doc/en/swift.md#package)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/cocoapods/EE3322" width="18" /> **[CocoaPods](doc/en/cocoapods.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/flutter/02569B" width="18" /> **[Flutter](doc/en/flutter.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" /> **[React Native](doc/en/react-native.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/expo/000020" width="18" /> **[Expo](doc/en/expo.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 🟢 **[uni-app (HBuilderX)](doc/en/uni-app.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="18" /> **[Kotlin Multiplatform / Compose](doc/en/kotlin-multiplatform.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/unity/000000" width="18" /> **[Unity](doc/en/unity.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="18" /> **[Godot](doc/en/godot.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/cocos/55C2E1" width="18" /> **[cocos2d-x](doc/en/cocos2d-x.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| <img src="https://cdn.simpleicons.org/apachecordova/35434F" width="18" /> **[Cordova](doc/en/cordova.md)** | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-Step-by-step guides for each stack are in [doc/en](doc/en/README.md).
+Click a stack name for its step-by-step guide.
 
 ## 🛠️ Do Your Xcode Work in VS Code
 
