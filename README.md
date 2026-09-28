@@ -70,6 +70,8 @@ Fully compatible with Xcode projects and the xcodebuild command. No Mac and no X
 | <img src="https://cdn.simpleicons.org/cocos/55C2E1" width="18" /> **cocos2d-x** | ✅ | ✅ | ✅ | ✅ | ✅ |
 | <img src="https://cdn.simpleicons.org/apachecordova/35434F" width="18" /> **Cordova** | ✅ | ✅ | ✅ | ✅ | ✅ |
 
+Step-by-step guides for each stack are in [doc/en](doc/en/README.md).
+
 ## 🛠️ Do Your Xcode Work in VS Code
 
 Project settings, Info.plist, asset catalogs, and app icons all have visual editors. What you save is the original file, which Xcode opens as usual.

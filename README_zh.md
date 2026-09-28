@@ -70,6 +70,8 @@
 | <img src="https://cdn.simpleicons.org/cocos/55C2E1" width="18" /> **cocos2d-x** | ✅ | ✅ | ✅ | ✅ | ✅ |
 | <img src="https://cdn.simpleicons.org/apachecordova/35434F" width="18" /> **Cordova** | ✅ | ✅ | ✅ | ✅ | ✅ |
 
+各技术栈的开发步骤见 [doc/zh](doc/zh/README.md)。
+
 
 
 ## 🛠️ 在 VS Code 里做 Xcode 里的那些事
