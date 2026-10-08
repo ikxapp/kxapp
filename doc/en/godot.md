@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/godot.md)
 
-The iOS project Godot exports can be built on Windows, installed on your iPhone and debugged at the native layer, no Mac required. Export from Godot as usual and use the export folder like any Xcode project. Your Godot project settings stay as they are.
+The iOS project Godot exports can be built on Windows, installed on your iPhone and debugged at the native layer. Export from Godot as usual and use the export folder like any Xcode project. Your Godot project settings stay as they are.
 
 ## Steps
 

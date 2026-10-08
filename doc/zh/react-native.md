@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/react-native.md)
 
-React Native 工程在 Windows 上可以构建 iOS 端并真机调试，不需要 Mac。JS 部分照常运行 Metro，原生代码可以断点调试。工程里调用 xcodebuild 的构建脚本不用改，见 [xcodebuild / xcrun 兼容](https://www.kxapp.com/zh/guides/cli-compat.html)。
+React Native 工程在 Windows 上可以构建 iOS 端并真机调试。JS 部分照常运行 Metro，原生代码可以断点调试。工程里调用 xcodebuild 的构建脚本不用改，见 [xcodebuild / xcrun 兼容](https://www.kxapp.com/zh/guides/cli-compat.html)。
 
 ## 步骤
 

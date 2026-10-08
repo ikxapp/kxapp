@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/flutter.md)
 
-Flutter 工程在 Windows 上可以构建 iOS 端并真机调试，不需要 Mac。原生断点和 Dart 断点同时可用，热重载照常。iOS 端的构建和运行用快蝎代替 flutter build ios 和 flutter run，其他 flutter 命令照常使用。
+Flutter 工程在 Windows 上可以构建 iOS 端并真机调试。原生断点和 Dart 断点同时可用，热重载照常。iOS 端的构建和运行用快蝎代替 flutter build ios 和 flutter run，其他 flutter 命令照常使用。
 
 ## 步骤
 

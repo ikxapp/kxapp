@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/godot.md)
 
-Godot 导出的 iOS 工程在 Windows 上可以编译、安装到 iPhone 并调试原生层，不需要 Mac。Godot 中照常导出，导出目录按普通 Xcode 工程使用，不用改 Godot 项目设置。
+Godot 导出的 iOS 工程在 Windows 上可以编译、安装到 iPhone 并调试原生层。Godot 中照常导出，导出目录按普通 Xcode 工程使用，不用改 Godot 项目设置。
 
 ## 步骤
 

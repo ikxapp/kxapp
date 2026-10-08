@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/swift.md)
 
-Build Swift iOS projects on Windows, install them on your iPhone and debug with breakpoints, no Mac needed. SwiftUI, Swift Package Manager and mixed Swift and Objective-C are all supported. KXApp reads build settings, target dependencies and compiler flags by Xcode's rules, so your project works as is. Swift projects come in two kinds, [Xcode projects](#xcode) and [standalone Swift packages](#package) with only a Package.swift. Each is covered below. For projects that use CocoaPods, see [CocoaPods](cocoapods.md).
+Build Swift iOS projects on Windows, install them on your iPhone and debug with breakpoints. SwiftUI, Swift Package Manager and mixed Swift and Objective-C are all supported. KXApp reads build settings, target dependencies and compiler flags by Xcode's rules, so your project works as is. Swift projects come in two kinds, [Xcode projects](#xcode) and [standalone Swift packages](#package) with only a Package.swift. Each is covered below. For projects that use CocoaPods, see [CocoaPods](cocoapods.md).
 
 <a id="xcode"></a>
 

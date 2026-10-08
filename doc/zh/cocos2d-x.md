@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/cocos2d-x.md)
 
-cocos2d-x 游戏在 Windows 上可以编译 iOS 版、安装到 iPhone 并断点调试 C++ 代码，不需要 Mac。3.x 和 4.x 都支持，引擎源码作为子工程一起编译，不用改引擎，也不用改工程设置。
+cocos2d-x 游戏在 Windows 上可以编译 iOS 版、安装到 iPhone 并断点调试 C++ 代码。3.x 和 4.x 都支持，引擎源码作为子工程一起编译，不用改引擎，也不用改工程设置。
 
 ## 步骤
 

@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/flutter.md)
 
-Build the iOS side of a Flutter project on Windows and debug it on your iPhone, no Mac needed. Native and Dart breakpoints both work, and so does hot reload. Use KXApp in place of flutter build ios and flutter run for iOS. Every other flutter command works as usual.
+Build the iOS side of a Flutter project on Windows and debug it on your iPhone. Native and Dart breakpoints both work, and so does hot reload. Use KXApp in place of flutter build ios and flutter run for iOS. Every other flutter command works as usual.
 
 ## Steps
 

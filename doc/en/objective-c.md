@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/objective-c.md)
 
-Build Objective-C iOS projects on Windows, install them on your iPhone and debug with breakpoints, no Mac needed. Your .xcodeproj and .xcworkspace work as is. KXApp reads build settings, target dependencies and compiler flags by Xcode's rules and builds an app you can install on your phone. Mixed Objective-C and Swift is supported. For projects that use CocoaPods, see [CocoaPods](cocoapods.md).
+Build Objective-C iOS projects on Windows, install them on your iPhone and debug with breakpoints. Your .xcodeproj and .xcworkspace work as is. KXApp reads build settings, target dependencies and compiler flags by Xcode's rules and builds an app you can install on your phone. Mixed Objective-C and Swift is supported. For projects that use CocoaPods, see [CocoaPods](cocoapods.md).
 
 ## Steps
 

@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/expo.md)
 
-Build the iOS side of an Expo project locally on Windows and debug it on your iPhone, with no Mac and no EAS Build. If the project has no ios/ folder, doctor generates it. Run Metro for the JS as usual, and set breakpoints in native code.
+Build the iOS side of an Expo project locally on Windows and debug it on your iPhone, with no EAS Build. If the project has no ios/ folder, doctor generates it. Run Metro for the JS as usual, and set breakpoints in native code.
 
 ## Steps
 

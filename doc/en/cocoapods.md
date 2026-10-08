@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/cocoapods.md)
 
-On Windows, iOS projects that use CocoaPods keep managing dependencies with pod, and you build, install and debug on your iPhone without a Mac. CocoaPods is installed along with KXApp, so pod runs in any terminal. Your Podfile and project need no changes, whether the project is Swift or Objective-C.
+On Windows, iOS projects that use CocoaPods keep managing dependencies with pod, and you build, install and debug on your iPhone as usual. CocoaPods is installed along with KXApp, so pod runs in any terminal. Your Podfile and project need no changes, whether the project is Swift or Objective-C.
 
 ## Steps
 

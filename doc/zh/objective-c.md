@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/objective-c.md)
 
-Objective-C 的 iOS 工程在 Windows 上可以直接编译、安装到 iPhone 并断点调试，不需要 Mac。.xcodeproj 和 .xcworkspace 不需要改造。工程设置、target 依赖和编译参数都按 Xcode 的规则读取，直接编译出可以安装到手机的 App。支持 Objective-C 与 Swift 混编，使用 CocoaPods 的工程见 [CocoaPods](cocoapods.md)。
+Objective-C 的 iOS 工程在 Windows 上可以直接编译、安装到 iPhone 并断点调试。.xcodeproj 和 .xcworkspace 不需要改造。工程设置、target 依赖和编译参数都按 Xcode 的规则读取，直接编译出可以安装到手机的 App。支持 Objective-C 与 Swift 混编，使用 CocoaPods 的工程见 [CocoaPods](cocoapods.md)。
 
 ## 步骤
 

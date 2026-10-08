@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/cordova.md)
 
-Package a Cordova project for iOS on Windows and debug it on your iPhone, no Mac needed. The platforms/ios project that cordova platform add ios creates builds like any Xcode project, and cordova commands and plugins work as usual.
+Package a Cordova project for iOS on Windows and debug it on your iPhone. The platforms/ios project that cordova platform add ios creates builds like any Xcode project, and cordova commands and plugins work as usual.
 
 ## Steps
 

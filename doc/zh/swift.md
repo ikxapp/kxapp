@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/swift.md)
 
-Swift 的 iOS 工程在 Windows 上可以直接编译、安装到 iPhone 并断点调试，不需要 Mac。支持 SwiftUI、Swift Package Manager 和与 Objective-C 混编，工程设置、target 依赖和编译参数按 Xcode 的规则读取，不需要改造。Swift 项目分两类，[Xcode 工程](#xcode)和只有 Package.swift 的[纯 Swift Package](#package)，下面分开介绍。使用 CocoaPods 的工程见 [CocoaPods](cocoapods.md)。
+Swift 的 iOS 工程在 Windows 上可以直接编译、安装到 iPhone 并断点调试。支持 SwiftUI、Swift Package Manager 和与 Objective-C 混编，工程设置、target 依赖和编译参数按 Xcode 的规则读取，不需要改造。Swift 项目分两类，[Xcode 工程](#xcode)和只有 Package.swift 的[纯 Swift Package](#package)，下面分开介绍。使用 CocoaPods 的工程见 [CocoaPods](cocoapods.md)。
 
 <a id="xcode"></a>
 

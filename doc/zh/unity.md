@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/unity.md)
 
-Unity 导出的 iOS 工程在 Windows 上可以编译、安装到 iPhone 并调试原生层，不需要 Mac。Unity 中照常导出，导出目录按普通 Xcode 工程使用，不需要安装 Unity 插件，也不用改 Unity 项目设置。
+Unity 导出的 iOS 工程在 Windows 上可以编译、安装到 iPhone 并调试原生层。Unity 中照常导出，导出目录按普通 Xcode 工程使用，不需要安装 Unity 插件，也不用改 Unity 项目设置。
 
 ## 步骤
 

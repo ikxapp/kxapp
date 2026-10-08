@@ -9,7 +9,7 @@
 **跨平台 iOS 开发 IDE，全面开启跨平台时代**
 
 在 Windows、Linux、macOS 上开发、真机调试、发布 iOS App。<br/>
-完美兼容 Xcode 工程和 xcodebuild 命令，无需 Mac，无需安装 Xcode。
+完美兼容 Xcode 工程和 xcodebuild 命令，无需安装 Xcode。
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 | | |
 |---|---|
-| 🖥️ **不用 Mac** | 本机开发编译，不是虚拟机、黑苹果或云 Mac，完整的原生性能 |
+| 🖥️ **跨平台** | 在 Windows、Linux、macOS 上原生开发编译，完整的原生性能 |
 | 🧩 **不用 Xcode** | 自带完整的开发工具，一条命令安装即可开始开发 |
 | 📂 **工程不用改** | 已有的 Xcode 工程原样打开，处理方式与 Xcode 一致 |
 | 💡 **智能提示** | 打开工程就有补全、跳转、悬停和诊断，不用先构建 |
@@ -150,10 +150,6 @@ kxapp build ios/MyApp.xcworkspace -s MyApp -c Release --json
 ```
 
 ## ❓ 常见问题
-
-**kxapp 是虚拟机、黑苹果还是云 Mac？**
-
-都不是。kxapp 是一整套独立的编译工具，直接运行在你的系统上，拥有完整的原生性能。
 
 **真机调试需要什么？**
 

@@ -9,7 +9,7 @@
 **A cross-platform iOS IDE — iOS development, now on every platform**
 
 Develop, debug on device, and ship iOS apps from Windows, Linux, or macOS.<br/>
-Fully compatible with Xcode projects and the xcodebuild command. No Mac and no Xcode required.
+Fully compatible with Xcode projects and the xcodebuild command. No Xcode required.
 
 <br/>
 
@@ -35,7 +35,7 @@ Fully compatible with Xcode projects and the xcodebuild command. No Mac and no X
 
 | | |
 |---|---|
-| 🖥️ **No Mac needed** | Build natively on your own machine. Not a VM, Hackintosh, or cloud Mac, so you get full native performance |
+| 🖥️ **Cross-platform** | Build natively on Windows, Linux, and macOS with full native performance |
 | 🧩 **No Xcode needed** | Ships with a complete toolchain. Install with one command and start coding |
 | 📂 **No project changes** | Open existing Xcode projects as they are. They are handled the same way Xcode handles them |
 | 💡 **IntelliSense** | Completion, go-to-definition, hover, and diagnostics as soon as a project opens, no build required |
@@ -143,10 +143,6 @@ kxapp build ios/MyApp.xcworkspace -s MyApp -c Release --json
 ```
 
 ## ❓ FAQ
-
-**Is kxapp a virtual machine, a Hackintosh, or a cloud Mac?**
-
-None of these. kxapp is a complete, standalone toolchain that runs directly on your system with full native performance.
 
 **What do I need for on-device debugging?**
 

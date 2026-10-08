@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/uni-app.md)
 
-Package the iOS app of an HBuilderX uni-app project locally on Windows and debug it on your iPhone. There's no cloud packaging, no queue and no Mac. You export the uni-app project as an Xcode project first, then build, install and debug it like any other iOS project.
+Package the iOS app of an HBuilderX uni-app project locally on Windows and debug it on your iPhone. There's no cloud packaging and no queue. You export the uni-app project as an Xcode project first, then build, install and debug it like any other iOS project.
 
 ## Steps
 

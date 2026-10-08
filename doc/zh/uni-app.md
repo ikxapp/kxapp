@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/uni-app.md)
 
-HBuilderX 的 uni-app 工程在 Windows 上可以本地打包 iOS 并真机调试，不经过云打包，不排队，不需要 Mac。uni-app 工程先导出成 Xcode 工程，之后按普通 iOS 工程编译、安装和调试。
+HBuilderX 的 uni-app 工程在 Windows 上可以本地打包 iOS 并真机调试，不经过云打包，不排队。uni-app 工程先导出成 Xcode 工程，之后按普通 iOS 工程编译、安装和调试。
 
 ## 步骤
 

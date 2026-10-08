@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/kotlin-multiplatform.md)
 
-Build the iOS app of a Kotlin Multiplatform project on Windows, install it on your iPhone and debug it, no Mac needed. The iosApp project and your Gradle build scripts need no changes, and Compose Multiplatform works too. Set breakpoints in both Swift and Kotlin, and step from Swift into Kotlin.
+Build the iOS app of a Kotlin Multiplatform project on Windows, install it on your iPhone and debug it. The iosApp project and your Gradle build scripts need no changes, and Compose Multiplatform works too. Set breakpoints in both Swift and Kotlin, and step from Swift into Kotlin.
 
 ## Steps
 

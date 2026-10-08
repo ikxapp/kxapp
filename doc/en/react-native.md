@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/react-native.md)
 
-Build the iOS side of a React Native project on Windows and debug it on your iPhone, no Mac needed. Run Metro for the JS as usual, and set breakpoints in native code. Build scripts in your project that call xcodebuild work without changes. See [xcodebuild and xcrun compatibility](https://www.kxapp.com/guides/cli-compat.html).
+Build the iOS side of a React Native project on Windows and debug it on your iPhone. Run Metro for the JS as usual, and set breakpoints in native code. Build scripts in your project that call xcodebuild work without changes. See [xcodebuild and xcrun compatibility](https://www.kxapp.com/guides/cli-compat.html).
 
 ## Steps
 

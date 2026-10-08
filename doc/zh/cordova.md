@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/cordova.md)
 
-Cordova 工程在 Windows 上可以打包 iOS 并真机调试，不需要 Mac。cordova platform add ios 生成的 platforms/ios 按普通 Xcode 工程编译，cordova 命令和插件照常使用。
+Cordova 工程在 Windows 上可以打包 iOS 并真机调试。cordova platform add ios 生成的 platforms/ios 按普通 Xcode 工程编译，cordova 命令和插件照常使用。
 
 ## 步骤
 

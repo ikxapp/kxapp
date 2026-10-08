@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/cocos2d-x.md)
 
-Build the iOS version of a cocos2d-x game on Windows, install it on your iPhone and debug the C++ code with breakpoints, no Mac needed. Both 3.x and 4.x are supported. The engine source builds along with your game as a subproject, with no changes to the engine or the project settings.
+Build the iOS version of a cocos2d-x game on Windows, install it on your iPhone and debug the C++ code with breakpoints. Both 3.x and 4.x are supported. The engine source builds along with your game as a subproject, with no changes to the engine or the project settings.
 
 ## Steps
 

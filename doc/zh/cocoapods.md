@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/cocoapods.md)
 
-使用 CocoaPods 的 iOS 工程在 Windows 上照常用 pod 命令管理依赖，编译、安装到 iPhone 和断点调试都不需要 Mac。CocoaPods 随快蝎一起安装，终端里直接就能运行 pod。Podfile 和工程文件都不需要改造，Swift、Objective-C 工程都一样。
+使用 CocoaPods 的 iOS 工程在 Windows 上照常用 pod 命令管理依赖，并直接编译、安装到 iPhone 和断点调试。CocoaPods 随快蝎一起安装，终端里直接就能运行 pod。Podfile 和工程文件都不需要改造，Swift、Objective-C 工程都一样。
 
 ## 步骤
 

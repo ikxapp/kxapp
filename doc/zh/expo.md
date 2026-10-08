@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/expo.md)
 
-Expo 工程在 Windows 上可以本地构建 iOS 端并真机调试，不需要 Mac，也不经过 EAS Build。没有 ios/ 目录的工程，体检时会自动生成。JS 部分照常运行 Metro，原生代码可以断点调试。
+Expo 工程在 Windows 上可以本地构建 iOS 端并真机调试，不经过 EAS Build。没有 ios/ 目录的工程，体检时会自动生成。JS 部分照常运行 Metro，原生代码可以断点调试。
 
 ## 步骤
 

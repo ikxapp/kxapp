@@ -2,7 +2,7 @@
 
 **English** · [简体中文](../zh/unity.md)
 
-Build the iOS project that Unity exports on Windows, install it on your iPhone and debug the native layer, no Mac needed. Export from Unity as usual and treat the export folder as a regular Xcode project. You don't need a Unity plugin or any change to your Unity project settings.
+Build the iOS project that Unity exports on Windows, install it on your iPhone and debug the native layer. Export from Unity as usual and treat the export folder as a regular Xcode project. You don't need a Unity plugin or any change to your Unity project settings.
 
 ## Steps
 

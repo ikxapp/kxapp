@@ -2,7 +2,7 @@
 
 **简体中文** · [English](../en/kotlin-multiplatform.md)
 
-Kotlin Multiplatform 工程在 Windows 上可以编译 iOS App、安装到 iPhone 并调试，不需要 Mac。iosApp 工程和 Gradle 构建脚本都不用改，Compose Multiplatform 同样支持。Swift 和 Kotlin 代码都能设断点，从 Swift 可以单步进入 Kotlin。
+Kotlin Multiplatform 工程在 Windows 上可以编译 iOS App、安装到 iPhone 并调试。iosApp 工程和 Gradle 构建脚本都不用改，Compose Multiplatform 同样支持。Swift 和 Kotlin 代码都能设断点，从 Swift 可以单步进入 Kotlin。
 
 ## 步骤
 
