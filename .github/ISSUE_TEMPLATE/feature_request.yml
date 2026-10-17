@@ -1,0 +1,15 @@
+name: Feature request / 功能建议
+description: Suggest something kxapp should do. / 建议 kxapp 增加的功能。
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do? / 你想完成什么？
+      description: What do you still need Xcode for? / 现在还需要回到 Xcode 做什么？
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: How should it work? / 希望怎样工作？

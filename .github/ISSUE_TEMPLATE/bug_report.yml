@@ -1,0 +1,42 @@
+name: Bug report / 问题反馈
+description: Something does not work as expected. / 功能不正常。
+labels: [bug]
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: Versions / 版本
+      description: macOS, Xcode and kxapp versions. / macOS、Xcode、kxapp 的版本。
+      placeholder: macOS 26.1, Xcode 26.1, kxapp 0.1.0
+    validations:
+      required: true
+  - type: input
+    id: destination
+    attributes:
+      label: Run destination / 运行目标
+      description: Simulator or device, and its OS version. / 模拟器或真机及其系统版本。
+      placeholder: iPhone 17 Simulator, iOS 26.1
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / 复现步骤
+      placeholder: |
+        1. Open the folder with MyApp.xcodeproj
+        2. Press Cmd+R
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual result / 期望结果与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Output / 输出日志
+      description: >
+        Contents of the "kxapp" and "kxapp Build" channels in the Output panel (View → Output).
+        / “输出”面板中 kxapp 和 kxapp Build 频道的内容（查看 → 输出）。
+      render: text
