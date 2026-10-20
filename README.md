@@ -1,4 +1,4 @@
-# kxapp — Xcode Projects in VS Code
+# KXApp — iOS Development in VS Code
 
 **Build, run and debug Xcode projects in VS Code — powered by the Xcode you already have.**
 

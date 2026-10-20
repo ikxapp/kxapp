@@ -1,4 +1,4 @@
-# kxapp — 在 VS Code 中开发 Xcode 工程
+# KXApp（快蝎）— 在 VS Code 里开发 iOS 应用
 
 **在 VS Code 里构建、运行、调试 Xcode 工程，底层就是你已经装好的 Xcode。**
 
