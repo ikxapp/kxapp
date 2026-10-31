@@ -1,5 +1,36 @@
 # Changelog
 
+## 0.1.2
+
+- **Large source trees**: opening a folder such as a WebKit checkout no longer stalls. Project discovery skips
+  CMake and WebKit build output, treats the projects under an `.xcworkspace` as part of that workspace, and code
+  completion builds in the background only after you pick the startup project when the folder holds more than five
+  projects. SourceKit-LSP starts only for files that belong to an Xcode project or a Swift package.
+
+## 0.1.1
+
+- **Device debugging**: debugging on a device no longer hangs when another paired device is not supported by the
+  installed Xcode; attaching gives up after 10 seconds when no attach starts.
+- **Build errors**: signing and provisioning failures are shown as the build failure summary and in the Problems
+  panel on `project.pbxproj`.
+- **Run Without Debugging**: launch failures on the device (for example a locked device) are reported.
+- **Projects under `/private/tmp`**: build errors, test failures and breakpoints land on the files you have open,
+  and code intelligence gets compiler arguments.
+- **Tests on a simulator**: test files no longer report "No such module 'Testing'" when a simulator is the run
+  destination.
+- **SourceKit-LSP**: the restart command is always in the Command Palette and starts the server when it is not
+  running.
+- **Asset catalog editor**: the App Store icon is written without an alpha channel; `actool` diagnostics are
+  attached to the right set and listed once; renaming a set to an existing name is caught; changes made by other
+  tools are picked up. Icon previews say when they need Xcode 26.
+- **Localization editor**: varying a String Catalog entry by plural or device keeps the catalog valid; `.strings`
+  files keep their spacing on save; `%arg` placeholders follow the keys from the last build.
+- **Property list editor**: changing a value's type tells you when the old value is dropped (undo restores it).
+- **Project settings editor**: only deployment targets the installed SDK supports are offered; renaming a build
+  setting that is not set is rejected; edits to `project.pbxproj` files without reference comments stay minimal,
+  and original line endings are kept.
+- New extension icon.
+
 ## 0.1.0
 
 First public release.
