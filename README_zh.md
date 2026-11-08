@@ -19,6 +19,7 @@ kxapp 用 `xcodebuild` 构建、安装并启动 App，再挂上 Xcode 自带的�
   不需要 xcode-build-server、CodeLLDB、Homebrew。
 - **和 Xcode 并行使用**：同一份 DerivedData、同一份索引、同一份工程文件。需要 Interface Builder 或 Instruments
   时切到 Xcode，随时再回来。
+- **兼容跨平台编译系统 KXBuild**：装有 KXBuild 的电脑上同样能构建工程、在真机上跑测试。
 - **Xcode 的快捷键**：`Cmd+R` 运行、`Cmd+B` 构建、`Cmd+.` 停止。
 - **免费、本地、隐私**：无需账号，无遥测，不联网，一切都在你的 Mac 上完成。
 

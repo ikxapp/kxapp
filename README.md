@@ -21,6 +21,8 @@ Xcode window, no extra tools to install.
   uses the `lldb-dap` that ships with Xcode. No xcode-build-server, no CodeLLDB, no Homebrew.
 - **Works side by side with Xcode.** Same DerivedData, same index, same project files. Switch to Xcode for
   Interface Builder or Instruments and come back any time.
+- **Compatible with KXBuild, the cross-platform build system.** Build projects and run tests on a device
+  on any computer with KXBuild installed.
 - **Xcode keys.** `Cmd+R` runs, `Cmd+B` builds, `Cmd+.` stops.
 - **Free, local, private.** No account, no telemetry, no network calls. Everything runs on your Mac.
 
