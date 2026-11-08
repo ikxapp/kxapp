@@ -21,7 +21,7 @@ kxapp 用 `xcodebuild` 构建、安装并启动 App，再挂上 Xcode 自带的�
   时切到 Xcode，随时再回来。
 - **兼容跨平台编译系统 KXBuild**：装有 KXBuild 的电脑上同样能构建工程、在真机上跑测试。
 - **Xcode 的快捷键**：`Cmd+R` 运行、`Cmd+B` 构建、`Cmd+.` 停止。
-- **免费、本地、隐私**：无需账号，无遥测，不联网，一切都在你的 Mac 上完成。
+- **免费、跨平台、隐私**：无需账号，插件本身无遥测、不联网；Windows、Linux、macOS 都能用。
 
 VS Code 以及 Cursor、Windsurf 等基于 VS Code 的编辑器都能用（后者从 [Open VSX](https://open-vsx.org/extension/kxapp/kxapp) 安装）。
 
@@ -83,9 +83,10 @@ XML 或二进制保存格式。`.strings` 文件和描述文件（`.mobileprovis
 
 ## 环境要求
 
-- macOS，已安装 **Xcode 16 或更高版本**，并用 `xcode-select` 选中
+- macOS：已安装 **Xcode 16 或更高版本**，并用 `xcode-select` 选中；构建、运行、调试、代码智能全部可用
+- Windows、Linux（或未装 Xcode 的 macOS）：安装 KXBuild，可构建工程、在真机上跑测试
 - 编辑 `project.pbxproj`（Build Settings、加资源、加语言）需要 Ruby 的 `xcodeproj` gem：
-  `gem install --user-install xcodeproj`（装过 CocoaPods 的已经有了）
+  `gem install --user-install xcodeproj`（装过 CocoaPods 或 KXBuild 的已经有了）
 
 ## 快捷键
 
@@ -120,11 +121,11 @@ XML 或二进制保存格式。`.strings` 文件和描述文件（`.mobileprovis
 避免快捷键和构建服务器重复。
 
 **收费吗？收集数据吗？**
-免费。kxapp 不发送遥测、不发起网络请求，所有工作都由你 Mac 上的 Xcode 工具完成。
+免费。kxapp 不发送遥测、不发起网络请求，构建由 Xcode 或 KXBuild 完成。
 
 ## 反馈
 
-在 [GitHub Issues](https://github.com/ikxapp/kxapp/issues) 提交问题和建议。请附上 macOS、Xcode、kxapp 的版本，
+在 [GitHub Issues](https://github.com/ikxapp/kxapp/issues) 提交问题和建议。请附上操作系统、Xcode 或 KXBuild、kxapp 的版本，
 以及“输出”面板中 **kxapp** 和 **kxapp Build** 频道的内容。
 
 [English](https://github.com/ikxapp/kxapp#readme)

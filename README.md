@@ -24,7 +24,8 @@ Xcode window, no extra tools to install.
 - **Compatible with KXBuild, the cross-platform build system.** Build projects and run tests on a device
   on any computer with KXBuild installed.
 - **Xcode keys.** `Cmd+R` runs, `Cmd+B` builds, `Cmd+.` stops.
-- **Free, local, private.** No account, no telemetry, no network calls. Everything runs on your Mac.
+- **Free, cross-platform, private.** No account; the extension itself sends no telemetry and makes no network
+  calls. Works on Windows, Linux and macOS.
 
 Works in VS Code and in VS Code–based editors such as Cursor and Windsurf (install from
 [Open VSX](https://open-vsx.org/extension/kxapp/kxapp)).
@@ -92,9 +93,10 @@ from the Test Explorer, with failures shown at the line that failed.
 
 ## Requirements
 
-- macOS with **Xcode 16 or later**, selected with `xcode-select`
+- macOS: **Xcode 16 or later**, selected with `xcode-select` — build, run, debug and code intelligence
+- Windows, Linux (or macOS without Xcode): KXBuild installed — build projects and run tests on a device
 - Editing `project.pbxproj` (build settings, adding resources and languages) uses the `xcodeproj` Ruby gem:
-  `gem install --user-install xcodeproj` (CocoaPods users already have it)
+  `gem install --user-install xcodeproj` (CocoaPods and KXBuild users already have it)
 
 ## Keyboard shortcuts
 
@@ -130,13 +132,12 @@ No. kxapp has its own build server and uses Xcode's `lldb-dap`. Disable other iO
 workspace to avoid duplicate key bindings and build servers.
 
 **Is it free? Does it collect data?**
-It is free. kxapp sends no telemetry and makes no network requests; all work is done by the Xcode tools on your
-Mac.
+It is free. kxapp sends no telemetry and makes no network requests; builds are done by Xcode or KXBuild.
 
 ## Feedback
 
 Report bugs and ask for features on [GitHub Issues](https://github.com/ikxapp/kxapp/issues). Please include
-your macOS, Xcode and kxapp versions and the output of the **kxapp** and **kxapp Build** channels in the Output panel.
+your OS, Xcode or KXBuild, and kxapp versions and the output of the **kxapp** and **kxapp Build** channels in the Output panel.
 
 [中文说明](https://github.com/ikxapp/kxapp/blob/main/README_zh.md)
 
