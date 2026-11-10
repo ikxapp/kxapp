@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.3
+
+- **Without Xcode**: on Windows, Linux, or a Mac without Xcode, projects build, clean and run tests on a
+  connected iPhone or iPad when KXBuild is installed; the device list and the project editor work too. Run,
+  debug, simulators and code completion still need Xcode on macOS.
+
 ## 0.1.2
 
 - **Large source trees**: opening a folder such as a WebKit checkout no longer stalls. Project discovery skips
