@@ -21,7 +21,7 @@ Xcode window, no extra tools to install.
   uses the `lldb-dap` that ships with Xcode. No xcode-build-server, no CodeLLDB, no Homebrew.
 - **Works side by side with Xcode.** Same DerivedData, same index, same project files. Switch to Xcode for
   Interface Builder or Instruments and come back any time.
-- **Compatible with KXBuild, the cross-platform build system.** Build projects and run tests on a device
+- **Compatible with KXBuild, the cross-platform build system.** Build, run, debug and test on a device
   on any computer with KXBuild installed.
 - **Xcode keys.** `Cmd+R` runs, `Cmd+B` builds, `Cmd+.` stops.
 - **Free, cross-platform, private.** No account; the extension itself sends no telemetry and makes no network
@@ -94,7 +94,7 @@ from the Test Explorer, with failures shown at the line that failed.
 ## Requirements
 
 - macOS: **Xcode 16 or later**, selected with `xcode-select` — build, run, debug and code intelligence
-- Windows, Linux (or macOS without Xcode): KXBuild installed — build projects and run tests on a device
+- Windows, Linux (or macOS without Xcode): KXBuild installed — build, run, debug and test on a device
 - Editing `project.pbxproj` (build settings, adding resources and languages) uses the `xcodeproj` Ruby gem:
   `gem install --user-install xcodeproj` (CocoaPods and KXBuild users already have it)
 

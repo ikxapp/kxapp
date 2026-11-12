@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+- **Run and debug without Xcode**: with KXBuild installed (Windows, Linux, or a Mac without Xcode), Build & Run,
+  Run Without Debugging and Attach to Running App work on a connected iPhone or iPad: breakpoints, stepping,
+  variables and the app's output in the console. The first debug run for an iOS version copies the system
+  libraries from the device, which takes a few minutes.
+
 ## 0.1.3
 
 - **Without Xcode**: on Windows, Linux, or a Mac without Xcode, projects build, clean and run tests on a
